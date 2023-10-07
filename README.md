@@ -1,16 +1,14 @@
-# multi_theme_support_demo
+# Multi Themes Support Demo
 
-A new Flutter project.
+## Description:
+This is a demonstration project designed to highlight the functionality of multi-theme selection.
 
-## Getting Started
+  - The project offers three primary themes:
+    - System Theme: This theme automatically adapts to the default operating system theme.
+    - Light Theme: This theme presents a light background with dark text.
+    - Dark Theme: This theme presents a dark background with light text.
 
-This project is a starting point for a Flutter application.
+Important: This sample project doesn't rely on any  3rd party packages.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/k5KHzgMM/imgonline-com-ua-twotoone-s-V3-Fms-ISD4-Uqw8k.png "img")
